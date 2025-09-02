@@ -11,7 +11,7 @@ Given the passenger data, build a machine learning model that predicts whether a
 - Handling Missing Values
 - Encoding Categorical Variables
 - Pipeline with ColumnTransformer & GridSearchCV
-- Logistic Regression & XGBoost Models
+- Logistic Regression Models
 - Evaluation using Accuracy and ROC-AUC
 - Kaggle Submission
 
