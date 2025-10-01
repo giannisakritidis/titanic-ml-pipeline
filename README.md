@@ -26,7 +26,6 @@ Given the passenger data, build a machine learning model that predicts whether a
 
 - Validation Accuracy: ~78%
 - Validation ROC-AUC: ~86%
-- Public Leaderboard Score: [to be filled after submission]
 
 ## 🚀 How to Run
 
